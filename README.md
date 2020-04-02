@@ -1,3 +1,3 @@
 # SASboss
-Short jupyter notebooks to help visualize outputs from ATSAS packages PRIMUS and GNOM
+Short jupyter notebook to help visualize outputs from ATSAS packages PRIMUS and GNOM
 
